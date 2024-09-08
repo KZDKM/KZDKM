@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+Have experience with:
+- C++
+- Python
+- Java
+- Web (HTML & CSS & JS)
+- Game Dev (Unreal Engine)
+- Low-Level Programming (Windows & Linux Kernel)
+- Security (Reverse Engineering, Static Binary Analysis, Code Obfuscation & De-obfuscation)
+
+Interested in:
+- Machine Learning, Data Science
+- Rust
+
 <!--
 **KZDKM/KZDKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
