@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-Have experience with:
+Undergrad at UW-Madison
+
+Have experiences with:
 - C++
 - Python
 - Java
 - Web (HTML & CSS & JS)
 - Game Dev (Unreal Engine)
 - Low-Level Programming (Windows & Linux Kernel)
-- Security (Reverse Engineering, Static Binary Analysis, Code Obfuscation & De-obfuscation)
+- Security (Reverse Engineering, Static Binary Analysis /w IDA Pro, Code Obfuscation & De-obfuscation)
   - Paper: Evaluating Satisfiability Modulo Theories Solvers for Code Deobfuscation (publishing)
 
 Interested in:
