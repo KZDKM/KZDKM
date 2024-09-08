@@ -8,6 +8,7 @@ Have experience with:
 - Game Dev (Unreal Engine)
 - Low-Level Programming (Windows & Linux Kernel)
 - Security (Reverse Engineering, Static Binary Analysis, Code Obfuscation & De-obfuscation)
+  - Paper: Evaluating Satisfiability Modulo Theories Solvers for Code Deobfuscation (publishing)
 
 Interested in:
 - Machine Learning, Data Science
