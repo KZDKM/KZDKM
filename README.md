@@ -2,7 +2,7 @@
 
 Undergrad at UW-Madison
 
-Have experiences with:
+Good at:
 - C++
 - Python
 - Java
