@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Undergrad at UW-Madison
+Undergrad at UW-Madison double-majoring CS&CompE
 
 Good at:
 - C++
@@ -10,8 +10,6 @@ Good at:
 - Game Dev (Unreal Engine)
 - Low-Level Programming (Windows & Linux Kernel)
 - Security (Reverse Engineering, Static Binary Analysis /w IDA Pro, Code Obfuscation & De-obfuscation)
-  - Paper: Evaluating Satisfiability Modulo Theories Solvers for Code Deobfuscation (publishing)
-
 Interested in:
 - Machine Learning, Data Science
 - Rust
