@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Undergrad at UW-Madison double-majoring CS&CompE
+Undergrad at UW-Madison double-majoring CS & ECE
 
 Good at:
 - C++
