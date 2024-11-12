@@ -2,10 +2,7 @@
 
 Undergrad at UW-Madison double-majoring CS & ECE
 
-Good at:
-- C++
-- Python
-- Java
+Prefers C++, good at Java & Python. Other skill includes:
 - Web (HTML & CSS & JS)
 - Game Dev (Unreal Engine)
 - Low-Level Programming (Windows & Linux Kernel)
