@@ -6,7 +6,7 @@ Prefers C++, good at Java & Python. Other skill includes:
 - Web / Electron (HTML & CSS & JS/TS)
 - Game Dev (Unreal Engine)
 - Low-Level Programming (Windows Internal & Linux Kernel)
-- Security (Reverse Engineering, Static Binary Analysis /w IDA Pro, Code Obfuscation & De-obfuscation)
+- Reverse Engineering, Static Binary Analysis /w IDA Pro, Code Obfuscation & De-obfuscation...
 
 Interested in:
 - Machine Learning, Data Science
