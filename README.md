@@ -11,6 +11,7 @@ Prefers C++, good at Java & Python. Other skill includes:
 Interested in:
 - Machine Learning, Data Science
 - Rust
+- Not being so socially maladapted
 
 <!--
 **KZDKM/KZDKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
