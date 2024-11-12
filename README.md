@@ -3,7 +3,7 @@
 Undergrad at UW-Madison double-majoring CS & ECE
 
 Prefers C++, good at Java & Python. Other skill includes:
-- Web (HTML & CSS & JS)
+- Web / Electron (HTML & CSS & JS/TS)
 - Game Dev (Unreal Engine)
 - Low-Level Programming (Windows & Linux Kernel)
 - Security (Reverse Engineering, Static Binary Analysis /w IDA Pro, Code Obfuscation & De-obfuscation)
