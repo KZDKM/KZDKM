@@ -2,7 +2,7 @@
 
 Undergrad at UW-Madison double-majoring CS & ECE
 
-Prefers Rust & C++, good at Java & Python. Other skill includes:
+Prefers C++ & Rust, good at Java & Python. Other skill includes:
 - Web / Electron (HTML & CSS & JS/TS)
 - Game Dev (Unreal Engine)
 - Low-Level Programming (Windows Internal & Linux Kernel)
